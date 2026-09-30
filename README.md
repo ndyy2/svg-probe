@@ -1,24 +1,47 @@
-# probe3
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <img src="./assets/hero-light.svg" alt="Andyy, Backend Developer" />
+  </picture>
+</div>
 
-## R1 relative svg
+<div align="center">
+  <a href="https://www.youtube.com/@ndyy_208"><img src="./assets/social-youtube.svg" width="76" alt="YouTube" /></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/ndyndyy7"><img src="./assets/social-instagram.svg" width="76" alt="Instagram" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ndyy2"><img src="./assets/social-github.svg" width="76" alt="GitHub" /></a>
+  &nbsp;&nbsp;
+  <a href="https://andypradana.my.id/"><img src="./assets/social-website.svg" width="76" alt="Personal website" /></a>
+</div>
 
-<img src="./assets/card-light.svg" width="440" alt="rel" />
+## About
 
-## R2 absolute raw svg
+I build clean, efficient, and modular backend systems, with a focus on
+game-server logic and the tooling that keeps it maintainable.
 
-<img src="https://raw.githubusercontent.com/ndyy2/svg-probe/master/assets/card-light.svg" width="440" alt="raw" />
+- 🧠 Exploring backend technologies and new tooling
+- 🎮 SA:MP game development and logic-driven systems
+- 🔧 Clean architecture, automation, and low-level scripting
 
-## R3 picture dark
+## Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark.svg">
-  <img src="./assets/card-light.svg" width="440" alt="pic" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+    <img src="./assets/stack-light.svg" alt="Pawn, SA:MP, Go, TypeScript, JavaScript, Node.js, Next.js, MariaDB, MongoDB" />
+  </picture>
+</div>
 
-## R4 data uri
+## GitHub Stats
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iNDAiPjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iNDAiIGZpbGw9IiNmZjAiLz48dGV4dCB4PSI2IiB5PSIyNiIgZmlsbD0iIzAwMCI+ZGF0YTwvdGV4dD48L3N2Zz4=" width="100" alt="datauri" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ndyy2&theme=dark&hide_border=true&mode=daily&order=3&width=495&height=195">
+    <img src="https://streak-stats.demolab.com?user=ndyy2&theme=default&hide_border=true&mode=daily&order=3&width=495&height=195" alt="GitHub streak stats" />
+  </picture>
+</div>
 
-## R5 social link with svg img
-
-<a href="https://example.com"><img src="./assets/card-light.svg" width="40" height="40" alt="social" /></a>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ndyy2" alt="Profile views" />
+</div>
