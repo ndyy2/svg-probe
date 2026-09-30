@@ -1,18 +1,15 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-    <img src="./assets/hero-light.svg" alt="Andyy, Backend Developer" />
+    <img src="./assets/hero-light.svg" width="840" alt="Andyy, Backend Developer" />
   </picture>
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/@ndyy_208"><img src="./assets/social-youtube.svg" width="76" alt="YouTube" /></a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/ndyndyy7"><img src="./assets/social-instagram.svg" width="76" alt="Instagram" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ndyy2"><img src="./assets/social-github.svg" width="76" alt="GitHub" /></a>
-  &nbsp;&nbsp;
-  <a href="https://andypradana.my.id/"><img src="./assets/social-website.svg" width="76" alt="Personal website" /></a>
+  <a href="https://www.youtube.com/@ndyy_208"><img src="./assets/social-youtube.svg" width="72" alt="YouTube" /></a>
+  <a href="https://instagram.com/ndyndyy7"><img src="./assets/social-instagram.svg" width="72" alt="Instagram" /></a>
+  <a href="https://github.com/ndyy2"><img src="./assets/social-github.svg" width="72" alt="GitHub" /></a>
+  <a href="https://andypradana.my.id/"><img src="./assets/social-website.svg" width="72" alt="Personal website" /></a>
 </div>
 
 ## About
@@ -29,7 +26,7 @@ game-server logic and the tooling that keeps it maintainable.
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
-    <img src="./assets/stack-light.svg" alt="Pawn, SA:MP, Go, TypeScript, JavaScript, Node.js, Next.js, MariaDB, MongoDB" />
+    <img src="./assets/stack-light.svg" width="940" alt="Pawn, SA:MP, Go, TypeScript, JavaScript, Node.js, Next.js, MariaDB, MongoDB" />
   </picture>
 </div>
 
